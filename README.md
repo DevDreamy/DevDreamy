@@ -18,7 +18,6 @@
 <a href="https://steamcommunity.com/id/welcometomydream/">
 <img align="center" alt="Dreamy-Steam" src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white">
 </a>
-<img align="right" alt="GIF" src="http://78.media.tumblr.com/4ef4b9ec185e9100bc59a578eede4c3c/tumblr_p7cl0wAtFd1rnbh24o1_540.gif" width="250" height="160" />
 
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi
 - 💼 I'm looking for a job in programming and related areas
@@ -26,6 +25,8 @@
 - 🌱 At the moment, I'm learning typescript
 - 👯 I’m looking to collaborate with other content creators to improve my programming skills
 - 🎮 And last but not least, I love video games.
+
+  <img align="right" alt="GIF" src="http://78.media.tumblr.com/4ef4b9ec185e9100bc59a578eede4c3c/tumblr_p7cl0wAtFd1rnbh24o1_540.gif" width="250" height="160" />
 
 <br />
 
