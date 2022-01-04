@@ -1,4 +1,4 @@
-### Hi there, I'm Leonardo - aka [Dreamy][website](https://leonardorochadev.com.br) 👋 
+### Hi there, I'm Leonardo - aka [Dreamy](https://leonardorochadev.com.br) 👋 
 
 <a href="https://wa.me/+5511987916458">
 <img align="center" alt="Dreamy-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
