@@ -1,4 +1,4 @@
-### Hi there, I'm Leonardo - aka [Dreamy][website] 👋 
+### Hi there, I'm Leonardo - aka [Dreamy][website](https://leonardorochadev.com.br) 👋 
 
 <a href="https://wa.me/+5511987916458">
 <img align="center" alt="Dreamy-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
@@ -22,11 +22,10 @@
 
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi
 - 💼 I'm looking for a job in programming and related areas
-- 👨‍💻 At the moment I have intermediate knowledge in JavaScript (below you can see the languages ​​and tools I'm able to use)
-- 🌱 I’m currently learning typescript
+- 👨‍💻 Currently I have intermediate knowledge in JavaScript (below you can see the languages ​​and tools I'm able to use)
+- 🌱 At the moment, I'm learning typescript
 - 👯 I’m looking to collaborate with other content creators to improve my programming skills
 - 🎮 And last but not least, I love video games.
-
 
 <br />
 
@@ -78,7 +77,6 @@
 
 <img align="left" alt="Dreamy-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-
 <img align="left" alt="Dreamy-Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 <img align="left" alt="Dreamy-MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
@@ -91,12 +89,9 @@
 
 <img alt="Dreamy-AdobeDreamWeaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
 
-
 <br />
 
 ### Workstation:
 <img align="left" alt="Dreamy-AcerNitro5" src="https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white">
 <img align="left" alt="Dreamy-i5" src="https://img.shields.io/badge/Intel%20Core_i5_7300HQ-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img alt="Dreamy-1050TI" src="https://img.shields.io/badge/NVIDIA-GTX1050TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-
-[website]: https//leonardorochadev.com.br
