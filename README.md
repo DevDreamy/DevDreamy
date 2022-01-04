@@ -72,9 +72,7 @@
 
 <img align="left" alt="Dreamy-MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-<img align="left" alt="Dreamy-JSON" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-
-<br /><br /><br /><br />
+<img alt="Dreamy-JSON" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
 
 ### Softwares:
 
@@ -91,7 +89,6 @@
 <img align="left" alt="Dreamy-MSOffice" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 
 <img alt="Dreamy-AdobeDreamWeaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
-
 
 ### Workstation:
 <img align="left" alt="Dreamy-AcerNitro5" src="https://img.shields.io/badge/acer%20Nitro%205-83B81A?style=for-the-badge&logo=acer&logoColor=white">
