@@ -21,8 +21,6 @@
 <img align="center" alt="Dreamy-Steam" src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white">
 </a>
 
-
-
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi
 - 💼 I'm looking for a job in programming and related areas
 - 👨‍💻 Currently I have intermediate knowledge in JavaScript (below you can see the languages ​​and tools I'm able to use)
