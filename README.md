@@ -22,8 +22,8 @@
 </a>
 
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi
-- 💼 I'm looking for a job in programming and related areas
-- 👨‍💻 Currently I have intermediate knowledge in JavaScript (below you can see the languages ​​and tools I'm able to use)
+- 💼 I'm looking for a job in programming or related areas
+- 👨‍💻 Currently I have intermediate knowledge in JavaScript (below you can see the languages and tools I'm able to use)
 - 🌱 At the moment, I'm learning typescript
 - 👯 I’m looking to collaborate with other content creators to improve my programming skills
 - 🎮 And last but not least, I love video games.
