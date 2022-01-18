@@ -5,6 +5,9 @@
 <a href="https://wa.me/+5511987916458">
 <img align="center" alt="Dreamy-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/leonardorochadev">
+<img align="center" alt="Dreamy-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+</a>
 <a href="mailto:leonardorocha-@hotmail.com">
 <img align="center" alt="Dreamy-Hotmail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white">
 </a>
