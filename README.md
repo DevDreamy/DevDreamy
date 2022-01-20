@@ -24,7 +24,7 @@
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi
 - 💼 I'm looking to start a career in web development
 - 👨‍💻 Currently I have intermediate knowledge in JavaScript (below you can see the languages and tools I'm able to use)
-- 🌱 At the moment, I'm learning typescript
+- 🌱 At the moment, I'm learning TypeScript, React and Next.Js
 - 👯 I’m looking to collaborate with other content creators to improve my programming skills
 - 🎮 And last but not least, I love video games.
 
