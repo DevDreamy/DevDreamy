@@ -32,7 +32,7 @@
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevDreamy&show_icons=true&theme=github_dark&border_radius=20&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDreamy&layout=compact&theme=github_dark&border_radius=20"></p>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDreamy&layout=compact&theme=github_dark&border_radius=20&hide=shell"></p>
 
 ----
 
