@@ -1,4 +1,4 @@
-### Hi there, I'm Leonardo - aka [Dreamy](https://leonardorochadev.com.br) 👋
+### Hi there, I'm Leonardo - aka Dreamy 👋
 
   <img align="right" alt="GIF" src="http://78.media.tumblr.com/4ef4b9ec185e9100bc59a578eede4c3c/tumblr_p7cl0wAtFd1rnbh24o1_540.gif" width="250" height="160" />
 
