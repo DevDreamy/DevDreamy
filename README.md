@@ -22,7 +22,6 @@
 </a>
 
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi University
-- 💼 I'm looking to start a career in web development
 - 🌱 At the moment, I'm learning NodeJS
 - 👯 I’m looking to collaborate with other content creators to improve my programming skills
 - 🎮 And last but not least, I love video games.
