@@ -28,10 +28,6 @@
 
 <br />
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevDreamy&show_icons=true&theme=github_dark&border_radius=20&include_all_commits=true&count_private=true&card_width=150">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDreamy&layout=compact&theme=github_dark&border_radius=20"></p>
-
 ---
 
 ### Languages and Tools:
