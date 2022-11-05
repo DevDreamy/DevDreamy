@@ -22,7 +22,7 @@
 </a>
 
 - 🎓 I have a degree in Mechanical Engineering and I'm studying Information Systems at Anhembi Morumbi University
-- 🌱 At the moment, I'm learning NodeJS
+- 🌱 At the moment, I'm learning Go and Python
 - 👯 I’m looking to collaborate with other content creators to improve my programming skills
 - 🎮 And last but not least, I love video games.
 
